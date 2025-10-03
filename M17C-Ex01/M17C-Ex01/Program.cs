@@ -11,6 +11,7 @@ namespace M17C_Ex01
         static void Main(string[] args)
         {
             Console.WriteLine("Eu sou o Tomás Valente.");
+            Console.WriteLine("Deu certo!");
         }
     }
 }
